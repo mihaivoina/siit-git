@@ -1,3 +1,3 @@
 #Curs Git
 
-## Schimbare  
+## Schimbare in develop  
