@@ -34,6 +34,13 @@
     "color": "BLEU NAVY", 
     "description":"Furgoneta cu design practic.",
     "price": 11785}
+],
+"users": [
+    {"first-name": "Mihai",
+    "last-name": "Voina",
+    "email": "mihai@gmail.com",
+    "password":"123"
+    }
 ]
 }
 
